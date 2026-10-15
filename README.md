@@ -1,11 +1,16 @@
-# Stjepans-1st-VST
-Stjepan’s 1st VST is my first synthesizer plugin, built with Cabbage and Csound. Draw your own waveform or choose from presets (Saw, Square, Triangle, Organ, Sine), shape the sound with gain, attack and release controls, and play with pitch and mod wheels.
-Available as a VST3 plugin and a standalone app. Free to download, Windows 64-bit.
+# Stjepan’s 1st VST
 
-   ## Download
-   Go to Releases, download Stjepans_1st_Installer.exe and run it.
-   Windows may show an "Unknown publisher" warning: click More info → Run anyway.
-   After installation, rescan plugins in your DAW.
+Stjepan’s 1st VST is my first synthesizer plugin, built with Cabbage and Csound. Draw your own waveform or choose from the Draw, Saw, Square, Triangle, Organ, Sine, and Strings presets. Shape the sound with gain, attack, and release controls, then add pitch, modulation, and arpeggiator effects.
+
+Available as a VST3 plugin and a standalone app for 64-bit Windows. Free to download.
+
+## Download
+
+Go to [Releases](../../releases/latest), download `Stjepans_1st_Installer.exe`, and run the installer.
+
+Windows may show an “Unknown publisher” warning. If you trust the installer, select **More info → Run anyway**.
+
+After installation, rescan for plugins in your DAW.
 
 
-<img width="1782" height="1113" alt="image" src="https://github.com/user-attachments/assets/d244a07a-5f7e-4779-8710-5f86fde2cf0c" />
+<img width="793" height="523" alt="image" src="https://github.com/user-attachments/assets/b9083a7a-35f4-4263-9e65-fab7bfa99ca0" />
